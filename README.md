@@ -14,7 +14,9 @@ The Barangay Resident Information System manages resident records by storing key
 
 # Users can:
 List Infomation
+
 View Information
+
 Modify or update specific information
 
 # Project Structure:
