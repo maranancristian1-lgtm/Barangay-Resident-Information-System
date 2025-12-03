@@ -21,13 +21,13 @@ Modify or update specific information
 
 1. Resident (Abstract Class)
    - Holds common resident attributes: name, birthdate, gender, house number, address, contact.
-   - Defines abstract methods getCategory() and 'checkEligibility()' for subclasses to implement.
+   - Defines abstract methods `getCategory()` and `checkEligibility()` for subclasses to implement.
 
 2. ChildResident, AdultResident, SeniorResident (Subclasses)
    - Extend Resident and provide specific implementations for category and eligibility rules.
 
 3. BarangaySystem (Manager Class)
-   - Manages resident records: add, update, delete, search, and list residents.
+   - Manages `resident` records: add, update, delete, search, and list residents.
    - Maintains the ArrayList of all residents and handles sorting and validation.
 
 4. main Class
