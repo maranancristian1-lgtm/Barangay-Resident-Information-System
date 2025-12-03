@@ -21,7 +21,7 @@ Modify or update specific information
 
 1. Resident (Abstract Class)
    - Holds common resident attributes: name, birthdate, gender, house number, address, contact.
-   - Defines abstract methods getCategory() and checkEligibility() for subclasses to implement.
+   - Defines abstract methods getCategory() and 'checkEligibility()' for subclasses to implement.
 
 2. ChildResident, AdultResident, SeniorResident (Subclasses)
    - Extend Resident and provide specific implementations for category and eligibility rules.
