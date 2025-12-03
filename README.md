@@ -1,5 +1,5 @@
 # Barangay-Resident-Information-System
-  CS 211
+  IT 2112
   
    Aluan Mark Justin
 
