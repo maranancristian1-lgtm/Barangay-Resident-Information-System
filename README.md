@@ -7,17 +7,15 @@ Maranan Cristian I.
 
 Ramirez Dennis Alfred D.
 
-# Description / Overview
+# 📜 Description / Overview
 The Barangay Resident Information System manages resident records by storing key details and categorizing residents as Child, Adult, or Senior. It allows adding, updating, deleting, and searching by name or house number, using encapsulation, inheritance, polymorphism, and abstraction to ensure organized, secure, and efficient data management.
 
-# Users can:
-List Infomation
+# 🧑‍💻 Users can:
+📝List Infomation<br/>
+👀View Information<br/>
+🔨Modify or update specific information
 
-View Information
-
-Modify or update specific information
-
-# Project Structure:
+# 📚 Project Structure:
 
 1. Resident (Abstract Class)
    - Holds common resident attributes: name, birthdate, gender, house number, address, contact.
