@@ -211,7 +211,7 @@ Exiting system...
     <td>Project Leader/System Architect</td>
 </tr>
 <tr>
-    <td><img src="https://github.com/maranancristian1-lgtm/Barangay-Resident-Information-System/blob/4c23adc2531559e2845d124d49e298a44c407d13/img/4e836e88-da60-4ae5-b88a-670e8bcb0c70.jpg width="100" height="100"> </td>
+    <td><img src="https://github.com/maranancristian1-lgtm/Barangay-Resident-Information-System/blob/4c23adc2531559e2845d124d49e298a44c407d13/img/4e836e88-da60-4ae5-b88a-670e8bcb0c70.jpg" width ="100" height="100"> </td>
     <td><strong>Jei Q. Pastrana, MSIT</strong> <br/>
     <a href=https://github.com/maranancristian1 target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="jeisquaredd's GitHub">
