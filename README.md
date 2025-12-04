@@ -175,6 +175,8 @@ Enter Name to Update: Juan Dela Cruz
 2. Update House Number
 3. Update Gender
 4. Update Contact Number
+5. Update Name
+6. Update Birthdate
 Choose field to update: 4
 Enter new contact number: 09542375644
 Resident information updated successfully!
