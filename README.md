@@ -192,44 +192,6 @@ Resident deleted successfully.
 Choose option: 7
 Exiting system...
 ```
-
-## Contributors
-
-<table>
-<tr>
-    <th> &nbsp; </th>
-    <th> Name </th>
-    <th> Role </th>
-</tr>
-<tr>
-    <td><img src="static/marieemoiselle.JPG" width="100" height="100"> </td>
-    <td><strong>Fatima Marie P. Agdon, MSCS</strong> <br/>
-    <a href="https://github.com/marieemoiselle" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="marieemoiselle's GitHub">
-        </a>
-    </td>
-    <td>Project Leader/System Architect</td>
-</tr>
-<tr>
-    <td><img src="https://github.com/maranancristian1-lgtm/Barangay-Resident-Information-System/blob/4c23adc2531559e2845d124d49e298a44c407d13/img/4e836e88-da60-4ae5-b88a-670e8bcb0c70.jpg" width ="100" height="100"> </td>
-    <td><strong>Jei Q. Pastrana, MSIT</strong> <br/>
-    <a href=https://github.com/maranancristian1 target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="jeisquaredd's GitHub">
-        </a>
-    </td>
-    <td>File Handling Specialist</td>
-</tr>
-<tr>
-    <td><img src="static/renzmarrion.jpg" width="100" height="100"> </td>
-    <td><strong>Renz Marrion O. Perez</strong> <br/>
-    <a href="https://github.com/digZy030509" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=green" alt="digZy030509's GitHub">
-        </a>
-    </td>
-    <td>Feature Developer</td>
-</tr>
-</table>
-
 ##  Acknowledgment
 
 We sincerely express our gratitude to our instructor for the guidance and support provided throughout the completion of this project. We also extend our appreciation to our classmates and peers for their cooperation and encouragement during the development process.
